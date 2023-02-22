@@ -1,0 +1,15 @@
+C:\Users\volynets\Desktop\HTSeminar4\bin\Debug\net6.0\HTSeminar4.exe
+C:\Users\volynets\Desktop\HTSeminar4\bin\Debug\net6.0\HTSeminar4.deps.json
+C:\Users\volynets\Desktop\HTSeminar4\bin\Debug\net6.0\HTSeminar4.runtimeconfig.json
+C:\Users\volynets\Desktop\HTSeminar4\bin\Debug\net6.0\HTSeminar4.dll
+C:\Users\volynets\Desktop\HTSeminar4\bin\Debug\net6.0\HTSeminar4.pdb
+C:\Users\volynets\Desktop\HTSeminar4\obj\Debug\net6.0\HTSeminar4.csproj.AssemblyReference.cache
+C:\Users\volynets\Desktop\HTSeminar4\obj\Debug\net6.0\HTSeminar4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\volynets\Desktop\HTSeminar4\obj\Debug\net6.0\HTSeminar4.AssemblyInfoInputs.cache
+C:\Users\volynets\Desktop\HTSeminar4\obj\Debug\net6.0\HTSeminar4.AssemblyInfo.cs
+C:\Users\volynets\Desktop\HTSeminar4\obj\Debug\net6.0\HTSeminar4.csproj.CoreCompileInputs.cache
+C:\Users\volynets\Desktop\HTSeminar4\obj\Debug\net6.0\HTSeminar4.dll
+C:\Users\volynets\Desktop\HTSeminar4\obj\Debug\net6.0\refint\HTSeminar4.dll
+C:\Users\volynets\Desktop\HTSeminar4\obj\Debug\net6.0\HTSeminar4.pdb
+C:\Users\volynets\Desktop\HTSeminar4\obj\Debug\net6.0\HTSeminar4.genruntimeconfig.cache
+C:\Users\volynets\Desktop\HTSeminar4\obj\Debug\net6.0\ref\HTSeminar4.dll
